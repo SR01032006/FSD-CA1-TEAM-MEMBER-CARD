@@ -4,9 +4,9 @@ import TeamMemberCard from './components/TeamMemberCard';
 
 function App() {
 
-  const teamMembers=[{id:21,name:"Sarvesh",title:"Software development Engineer"},
-    {id:20,name:"Shreya",title:"Mechanical Engineer"},
-    {id:8,name:"Viji",title:"Senior Manager"}
+  const teamMembers=[{id:21,name:"Sujaykiran",title:"Software development Engineer"},
+    {id:20,name:"Saanvi",title:"Mechanical Engineer"},
+    {id:8,name:"Niharika",title:"Senior Manager"}
   ]
 
   return (
